@@ -1,0 +1,51 @@
+h1, h2, h3, h4, h5 {
+	margin-top: 0;
+}
+
+a {
+	color: #00aff0;
+}
+
+a:hover {
+	color: $dark-color;
+	text-decoration: none;
+}
+
+ul.li {
+	list-style: none;
+}
+
+
+.page-header {
+	margin-top: 30px;
+}
+
+
+.no-pad-top {
+	padding-top: 0;
+	
+}
+
+.extra-pad {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+
+
+.img-sm {
+	width: 200px;
+}
+.img-xsm {
+	width: 100px;
+}
+.img-lg {
+	width: 400px;
+}
+
+
+
+#carousel-example-generic {
+	height: 310px;
+	background: $secondary-color;
+}

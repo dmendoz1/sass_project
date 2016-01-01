@@ -1,0 +1,27 @@
+/* font Colors */
+$base-font-size: 15px;
+$base-font-family: "Segoe UI", "Segoe WP", "Segoe Regular", sans-serif;
+$base-font-color: #666666;
+
+/* Background Colors */
+/*
+$primary-color: #00aff0;
+$secondary-color: #7fba00;
+$light-color: #e4eef2;
+$dark-color: #2b5464;
+*/
+
+$primary-color: #89bfba;
+$secondary-color: #54b2a9;
+$light-color: #e0e0e0;
+$dark-color: #3d3d3d;
+
+input, textarea, button {
+	-moz-border-radius: 0;
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+
+/* Showcase Area  */
+$showcase-height: 500px;
+$showcase-image: '../../img/showcase.jpg';
